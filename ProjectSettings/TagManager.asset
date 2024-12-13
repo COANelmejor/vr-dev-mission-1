@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Hat
+  - Flame_Fire_ON
+  - Flame_Fire_OFF
   layers:
   - Default
   - TransparentFX
